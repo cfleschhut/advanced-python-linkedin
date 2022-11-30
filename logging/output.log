@@ -1,5 +1,5 @@
-DEBUG:root:This is a debug message
-INFO:root:123 This is a info message
-WARNING:root:This is a warning message
-ERROR:root:This is a error message
-CRITICAL:root:This is a critical message
+11/30/2022 11:29:48 AM: DEBUG: custom_logging Line:11 User: user@example.com This is a debug message
+11/30/2022 11:29:48 AM: INFO: custom_logging Line:12 User: user@example.com 123 This is a info message
+11/30/2022 11:29:48 AM: WARNING: custom_logging Line:13 User: user@example.com This is a warning message
+11/30/2022 11:29:48 AM: ERROR: custom_logging Line:14 User: user@example.com This is a error message
+11/30/2022 11:29:48 AM: CRITICAL: custom_logging Line:15 User: user@example.com This is a critical message
